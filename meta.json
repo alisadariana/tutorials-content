@@ -1,6 +1,23 @@
 {
   "tutorials": [
     {
+      "title": "Setting Up ADALM-M2K Without Root Permissions",
+      "description": "Configure Linux systems to use ADALM-M2K and Scopy without sudo privileges",
+      "tags": [
+        "scopy",
+        "m2k",
+        "linux",
+        "udev",
+        "usb"
+      ],
+      "date": "2024-12-24",
+      "author": "Alisa Dariana",
+      "slug": "analogdevices-scopy-setup",
+      "disclaimer": "ADALM-M2K and Scopy are trademarks of Analog Devices, Inc. This tutorial is user-contributed content and is not affiliated with Analog Devices.",
+      "category": "analogdevices/scopy",
+      "path": "analogdevices/scopy/setup.md"
+    },
+    {
       "title": "Writing Effective Tutorials",
       "description": "Learn how to create clear, structured, and helpful tutorials for technical documentation",
       "tags": [
