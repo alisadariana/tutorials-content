@@ -1,0 +1,24 @@
+{
+  "name": "tutorials-content",
+  "version": "1.0.0",
+  "description": "This repository contains markdown files for tutorials displayed on [Your Site Name].",
+  "private": true,
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "generate": "node scripts/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisadariana/tutorials-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisadariana/tutorials-content/issues"
+  },
+  "homepage": "https://github.com/alisadariana/tutorials-content#readme",
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}

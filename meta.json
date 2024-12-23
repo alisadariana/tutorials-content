@@ -1,0 +1,18 @@
+{
+  "tutorials": [
+    {
+      "title": "Writing Effective Tutorials",
+      "description": "Learn how to create clear, structured, and helpful tutorials for technical documentation",
+      "tags": [
+        "documentation",
+        "writing",
+        "tutorials"
+      ],
+      "date": "2024-12-24",
+      "author": "Alisa Dariana",
+      "slug": "example-write",
+      "category": "example",
+      "path": "example/write.md"
+    }
+  ]
+}
