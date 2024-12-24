@@ -30,6 +30,21 @@
       "slug": "example-write",
       "category": "example",
       "path": "example/write.md"
+    },
+    {
+      "title": "Managing Multiple Git Accounts Using SSH",
+      "description": "Configure and manage multiple Git accounts securely using SSH keys",
+      "tags": [
+        "git",
+        "ssh",
+        "vscode",
+        "development"
+      ],
+      "date": "2024-12-24",
+      "author": "Alisa Dariana",
+      "slug": "git-account-manage",
+      "category": "git/account",
+      "path": "git/account/manage.md"
     }
   ]
 }
