@@ -33,6 +33,21 @@
       "path": "docker/setup.md"
     },
     {
+      "title": "Creating a VS Code Extension",
+      "description": "Learn how to build a VS Code extension from scratch with TypeScript",
+      "tags": [
+        "vscode",
+        "extension",
+        "typescript",
+        "development"
+      ],
+      "date": "2024-12-28",
+      "author": "Multiple Authors",
+      "slug": "vscode-extension-create",
+      "category": "vscode/extension",
+      "path": "vscode/extension/create.md"
+    },
+    {
       "title": "Setting Up ADALM-M2K Without Root Permissions",
       "description": "Configure Linux systems to use ADALM-M2K and Scopy without sudo privileges",
       "tags": [
