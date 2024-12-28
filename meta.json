@@ -1,6 +1,22 @@
 {
   "tutorials": [
     {
+      "title": "Understanding and Using APT (Advanced Package Tool)",
+      "description": "A comprehensive guide to using APT for package management on Ubuntu and Debian-based systems",
+      "tags": [
+        "ubuntu",
+        "apt",
+        "package-management",
+        "system-administration",
+        "linux"
+      ],
+      "date": "2024-12-28",
+      "author": "Alisa-Dariana",
+      "slug": "apt-guide",
+      "category": "apt",
+      "path": "apt/guide.md"
+    },
+    {
       "title": "Setting Up ADALM-M2K Without Root Permissions",
       "description": "Configure Linux systems to use ADALM-M2K and Scopy without sudo privileges",
       "tags": [
