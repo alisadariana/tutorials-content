@@ -17,6 +17,22 @@
       "path": "apt/guide.md"
     },
     {
+      "title": "Installing and Setting Up Docker on Ubuntu 24.04",
+      "description": "A comprehensive guide to installing Docker and setting up your development environment on Ubuntu 24.04",
+      "tags": [
+        "docker",
+        "ubuntu",
+        "installation",
+        "development",
+        "containers"
+      ],
+      "date": "2024-12-28",
+      "author": "Alisa-Dariana",
+      "slug": "docker-setup",
+      "category": "docker",
+      "path": "docker/setup.md"
+    },
+    {
       "title": "Setting Up ADALM-M2K Without Root Permissions",
       "description": "Configure Linux systems to use ADALM-M2K and Scopy without sudo privileges",
       "tags": [
